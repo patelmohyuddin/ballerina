@@ -1,0 +1,17 @@
+syntax = "proto3";
+package grpc_service;
+import "google/protobuf/wrappers.proto";
+service bookstore {
+		rpc findBook(google.protobuf.StringValue) returns (google.protobuf.StringValue);
+		rpc addBook(BOOK) returns (google.protobuf.StringValue);
+		rpc updateBook(BOOK) returns (google.protobuf.StringValue);
+}
+message BOOK {
+	   string id = 1;
+	   string category = 2;
+       string title = 3;
+       string author = 4;
+       string year = 5;
+       string price = 6;
+    }
+

@@ -1,0 +1,178 @@
+[2019-08-22 13:02:30,291] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+G:\7th: warning: directory does not exist.
+sem\grpc-service-pc\guide: No such file or directory
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 13:06:41,474] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 13:07:08,296] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 13:07:44,673] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 13:08:09,062] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 13:15:02,407] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 13:16:04,020] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 14:36:09,882] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 14:59:12,590] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 15:07:01,197] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-22 15:18:27,271] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:15:9: Expected ";".
+bookstore.proto:20:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-27 19:01:29,928] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:12:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-27 19:01:50,180] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:11:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-27 19:03:14,592] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:11:9: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-27 19:04:07,323] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:10:36: Field numbers must be positive integers.
+bookstore.proto:11:18: "String" is not defined.
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-27 19:04:34,210] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:10:36: Field numbers must be positive integers.
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-27 19:05:06,820] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto: Required fields are not allowed in proto3.
+bookstore.proto: Required fields are not allowed in proto3.
+bookstore.proto: Required fields are not allowed in proto3.
+bookstore.proto: Required fields are not allowed in proto3.
+bookstore.proto: Required fields are not allowed in proto3.
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
+[2019-08-27 19:23:49,783] ERROR {org.ballerinalang.protobuf.cmd.GrpcCmd} - Error occurred when generating proto descriptor. 
+org.ballerinalang.protobuf.exception.BalGenToolException: 
+bookstore.proto:11:12: Expected ";".
+	at org.ballerinalang.protobuf.utils.BalFileGenerationUtils.generateDescriptor(BalFileGenerationUtils.java:77)
+	at org.ballerinalang.protobuf.cmd.DescriptorsGenerator.generateRootDescriptor(DescriptorsGenerator.java:120)
+	at org.ballerinalang.protobuf.cmd.GrpcCmd.execute(GrpcCmd.java:155)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:63)
+ 
